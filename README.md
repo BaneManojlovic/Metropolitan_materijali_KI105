@@ -16,3 +16,9 @@ https://www.youtube.com/watch?v=052U-bWEXrk&feature=youtu.be
 
 https://www.youtube.com/watch?v=_jJf-RF6dZY&feature=youtu.be
 
+https://www.youtube.com/watch?v=mN9NFwPHzYk&feature=youtu.be
+
+https://www.youtube.com/watch?v=Yqs-zOLSNDQ&feature=youtu.be
+
+https://www.youtube.com/watch?v=HYzRte8bYQ8&feature=youtu.be
+
