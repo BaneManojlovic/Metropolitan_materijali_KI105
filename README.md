@@ -1,7 +1,7 @@
 # Metropolitan_materijali_KI105
 Ovde se nalaze materijali vazni za predmet KI105 GUI programiranje
 
-******************************************************************************************************************************************
+********************************************************************************************************************************
 Linkovi za prvu lekciju:
 
 https://www.youtube.com/watch?v=uXitpup0l-s&feature=youtu.be
@@ -35,3 +35,8 @@ https://www.youtube.com/watch?v=NWhkCZZumAE&feature=youtu.be
 https://www.youtube.com/watch?v=_Se_q3L2JwQ&feature=youtu.be
 
 https://www.youtube.com/watch?v=3cdAO4BiTFs&feature=youtu.be
+
+********************************************************************************************************************************
+Linkovi za drugu lekciju:
+
+https://www.youtube.com/watch?v=2l5-5PMUc5Y&feature=youtu.be
