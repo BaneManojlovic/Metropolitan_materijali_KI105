@@ -2,7 +2,7 @@
 Ovde se nalaze materijali vazni za predmet KI105 GUI programiranje
 
 ******************************************************************************************************************************************
-Linkovi za prvu leksciju:
+Linkovi za prvu lekciju:
 
 https://www.youtube.com/watch?v=uXitpup0l-s&feature=youtu.be
 
