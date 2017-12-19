@@ -40,3 +40,5 @@ https://www.youtube.com/watch?v=3cdAO4BiTFs&feature=youtu.be
 Linkovi za drugu lekciju:
 
 https://www.youtube.com/watch?v=2l5-5PMUc5Y&feature=youtu.be
+
+https://www.youtube.com/watch?v=2l5-5PMUc5Y&feature=youtu.be
