@@ -95,7 +95,7 @@ public class Zadatak1 extends JFrame{
         }
 
         private MyListener(Zadatak1 aThis) {
-            throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+ //           throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
         }
         
         @Override
@@ -115,9 +115,9 @@ public class Zadatak1 extends JFrame{
                textField.setText(""+rezultat);
              } 
             
-       //     String data = e.getActionCommand();
-      //      textField.setText(data);
-       //     System.out.println(textField.getText());
+            String data = e.getActionCommand();
+            textField.setText(data);
+            System.out.println(textField.getText());
         }
     }
 
